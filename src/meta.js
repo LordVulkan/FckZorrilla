@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Fuck Mickel Zorrilla 
+// @name        Fuck Mikel Zorrilla 
 // @namespace   https://github.com/LordVulkan/FckZorrilla
 // @description Save Espinof from Mikel Zorrilla.
 // @match       *://*.espinof.com/*
