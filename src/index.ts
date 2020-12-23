@@ -1,3 +1,6 @@
-import { removeZorrillaPosts } from './app';
+import { removeZorrillaPosts, deletePostersTitles } from './app';
 
 removeZorrillaPosts();
+deletePostersTitles();
+removeZorrillaPosts();
+deletePostersTitles();
